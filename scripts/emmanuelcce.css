@@ -9,15 +9,17 @@ margin-left: 6rem;
 table,
 th,
 td {
-    border: solid brown 1px;
+ 
+  border: solid brown 1px;
   padding-left: .3rem;
   padding-right: .3rem;
  }
 table{
-    background-color: burlywood;
+  
+    background-color: rgb(201, 185, 175);
 }
 a:link {
-    color:rgb(243, 235, 235);
+    color:rgb(222, 20, 20);
     text-decoration-none;}
     a:visited {
         color: rgb(5, 112, 41);}
