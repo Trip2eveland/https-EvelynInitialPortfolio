@@ -1,0 +1,45 @@
+tbody{
+  vertical-align: baseline;
+}
+caption{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5vw;
+    color: rgb(32, 28, 28);
+    text-align: center;
+    padding-bottom: 2%;
+}
+.thead{
+    text-align: center;
+}
+td
+{
+Padding: 10px;
+text-align:justify;
+text-overflow: ellipsis;
+border: solid black 1px;
+border-collapse: collapse; 
+ }
+table{
+    width: 70%;
+    padding: 10px;
+    border: rgb(105, 28, 15) 1px solid;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 3em;
+    padding-left: 2rem;
+    background-color: rgb(228, 227, 219);
+}
+tr{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.25em;
+}
+table.separate {
+     border-collapse: separate;
+     border-spacing: 0.5rem;
+}
+table.collapsed {
+     border-collapse: collapse;
+}
+table ul{
+font-style: italic;
+}

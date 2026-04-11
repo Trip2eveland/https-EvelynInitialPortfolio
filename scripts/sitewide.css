@@ -1,0 +1,101 @@
+
+body{
+background: rgb(245, 237, 233);
+margin-right: 10rem;
+margin-left: 10rem;
+width: 90%
+}
+main{
+width: 80%;
+
+}
+nav{
+background: rgb(27, 9, 1);
+
+}
+
+nav::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+nav li {
+  float: left;
+
+}
+
+nav a {
+  display: block;
+  padding: 1rem;
+  text-decoration: none;
+
+}
+
+a:link {
+    color:rgb(222, 20, 20);
+    text-decoration-none;}
+    a:visited {
+        color: rgb(5, 112, 41);}
+        a:hover {
+           color: rgb(141, 39, 39);
+        }
+
+h1 {
+    display:inline-flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: rgb(84, 13, 13);
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(84, 13, 13);
+    text-align:left;
+    font-weight: bold;
+    
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2vw;
+    color: rgb(84, 13, 13);
+    text-align: left;
+    font-weight: bold;
+}
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(84, 13, 13);
+    text-align: center;
+    font-weight:normal;
+}
+h5 {
+    display:inline-flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3px;
+    color: rgb(231, 221, 221);
+    text-align: center;
+    font-weight: bold;
+}
+
+.FooterNavBox {
+    background-color: none;
+    display: center;
+
+}
+footer {
+    display: inline-block;
+    float: center;
+    width: 100%;
+    padding-bottom: 4%;
+    text-align: center;
+}

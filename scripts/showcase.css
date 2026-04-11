@@ -6,34 +6,8 @@ header{
     margin-right: 6rem;
     margin-left: 6rem; 
 }
-main{
-    background: rgb(236, 216, 243);
-    width: 80%;
-    margin-right: 6rem;
-    margin-left: 6rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-}
-.Footer {
-    display: inline-block;
-    width: 80%;
-    text-align: center;
-    margin-right: 6rem;
-    margin-left: 6rem;
- }
-.FooterNavBox {
-    background-color: black;
-    display: center;
-    width:80%;
-}
-a:link {
-   color: rgb(232, 8, 26);
-    }
-    a:visited {
-        color: rgba(208, 165, 216, 0.393);}
-        a:hover {
-            color: rgb(232, 172, 60);
-}
+
+
 .mytextbox{
     float: left;
     position: relative;
@@ -117,5 +91,4 @@ h5 {
     padding-bottom: 4%;
     text-align: center;
  }
-
 
